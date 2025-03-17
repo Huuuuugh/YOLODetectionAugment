@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+YOLODetectionAugment/AugmentHelper.py
+YOLODetectionAugment/ToTxt.py
+YOLODetectionAugment/ToXml.py
+YOLODetectionAugment/__init__.py
+YOLODetectionAugment/enlarge.py
+YOLODetectionAugment/spltdata.py
+YOLODetectionAugment.egg-info/PKG-INFO
+YOLODetectionAugment.egg-info/SOURCES.txt
+YOLODetectionAugment.egg-info/dependency_links.txt
+YOLODetectionAugment.egg-info/requires.txt
+YOLODetectionAugment.egg-info/top_level.txt
