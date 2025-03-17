@@ -1,5 +1,10 @@
-<div align="center">[中文](https://github.com/Huuuuugh/YOLODetectionAugment/blob/main/README_CN.md) ｜  English <br/>
+<div align="center">
+ 
+
  [![PyPI](https://img.shields.io/pypi/v/YOLODetectionAugment.svg)](https://pypi.org/project/YOLODetectionAugment/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+ <br/>
+  [中文](https://github.com/Huuuuugh/YOLODetectionAugment/blob/main/README_CN.md) ｜  English <br/>
+ 
 </div>
 
 
