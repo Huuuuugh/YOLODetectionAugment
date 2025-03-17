@@ -1,7 +1,7 @@
 <div align="center">
        
     
- [![PyPI](https://img.shields.io/pypi/v/YOLODetectionAugment.svg)](https://pypi.org/project/YOLODetectionAugment/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+ [![PyPI](https://img.shields.io/pypi/v/YOLODetectionAugment.svg)](https://pypi.org/project/YOLODetectionAugment/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Huuuuugh/YOLODetectionAugment/python-publish.yml?branch=main)](https://github.com/Huuuuugh/YOLODetectionAugment/actions)
     <br/>
     中文 ｜ [English](https://github.com/Huuuuugh/YOLODetectionAugment/blob/main/README.md) 
 <br/>
