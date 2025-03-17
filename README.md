@@ -1,3 +1,9 @@
+<div align="center">[中文](https://github.com/Huuuuugh/YOLODetectionAugment/blob/main/README_CN.md) ｜  English <br/>
+ [![PyPI](https://img.shields.io/pypi/v/YOLODetectionAugment.svg)](https://pypi.org/project/YOLODetectionAugment/) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+</div>
+
+
+
 ## Overview
 
 This project is a collection of tools for processing datasets used in the YOLO object detection model. It covers functions such as dataset augmentation, format conversion, and division, aiming to help users quickly and effectively prepare high-quality datasets suitable for training the YOLO model.
